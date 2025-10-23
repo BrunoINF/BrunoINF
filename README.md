@@ -1,11 +1,8 @@
-## Olá Pessoal! Aluno Bruno Possamai Moro 👋
+## Olá Pessoal! Aluno Bruno Possamai Moro
 
-- 🧑‍🎓 Aluno do Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
-- 💻 Perfil destinado às minhas aulas de Linguagem de Programação, Lógica de Programação e Banco de Dados.
+- Aluno do Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
+- Perfil destinado às minhas aulas de Linguagem de Programação, Lógica de Programação e Banco de Dados.
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoINF&theme=radical&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoINF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
